@@ -7,7 +7,7 @@
 
   <img src="https://discord.c99.nl/widget/theme-1/1020770068839268464.png"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaaqCOL0&show_icons=true&theme=radical)
+  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaaqCOL&show_icons=true&theme=radical)
 </div>
 <h1 align="center">listening to spotify🎶 </h1>
 
